@@ -46,6 +46,6 @@ win.config(menu=menu_bar)
 txt = Text()
 txt.pack()
 
-win.title("Verdazm Textpad")
+win.title("Textpad")
 win.geometry('400x500')
 win.mainloop()
